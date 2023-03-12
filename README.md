@@ -14,7 +14,7 @@ Run ng serve to start the front-end.
 
 ##########
 Usage
-Once the server and front-end are running, navigate to http://localhost:4200 to view the application. You can add, view, edit, and delete users from the database.
+Once the server and front-end are running, navigate to http://localhost:3000 to view the application. You can add, view, edit, and delete users from the database.
 
 
 #############
